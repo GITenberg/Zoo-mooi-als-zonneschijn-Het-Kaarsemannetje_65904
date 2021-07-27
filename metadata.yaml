@@ -1,16 +1,21 @@
 _repo: Zoo-mooi-als-zonneschijn-Het-Kaarsemannetje_65904
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Wildschut, G.
     gutenberg_agent_id: '44733'
     url: http://www.gutenberg.org/2009/agents/44733
+covers:
+- cover_type: archival
+  image_path: 65904-h/images/backcover.jpg
 creator:
   author:
     agent_name: Heijermans, Ida
     gutenberg_agent_id: '53542'
     url: http://www.gutenberg.org/2009/agents/53542
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65904#Zoo-mooi-als-zonneschijn-Het-Kaarsemannetje
 gutenberg_issued: '2021-07-23'
 gutenberg_type: Text
 identifiers:
